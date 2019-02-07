@@ -1,2 +1,3 @@
-# blog-posts
-Archive of blog posts
+# Blog posts
+
+Archive of blog posts and work-in-progress posts.
