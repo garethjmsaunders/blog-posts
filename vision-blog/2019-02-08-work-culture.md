@@ -36,7 +36,7 @@ These are a few of my favourite resources from the last few years that continue 
 
 ### Books
 
-* [**The Joy of Work: 30 ways to fix your work culture and fall in love with your job again**](https://eatsleepworkrepeat.fm/book/) by Bruce Daisley, VP for Twitter EMEA — Lots of really practical advice, backed up with research.
+* [The Joy of Work: 30 ways to fix your work culture and fall in love with your job again](https://eatsleepworkrepeat.fm/book/) by Bruce Daisley, VP for Twitter EMEA — Lots of really practical advice, backed up with research.
 * [Deep Work: Rules for focussed success in a distracted world](http://calnewport.com/books/deep-work/) by Professor Cal Newport — Newport's central premise is that knowledge workers (such as programmers) are hired for their brains, so why do we allow them to be distracted so much? Too many distractions was raised as an impediment in our last sprint retrospective! Newport offers strategies to protect people's attention. (Spoiler alert: he's not a big fan of open plan offices.)
 * [Digital Minimalism: Choosing a focused life in a noisy world](http://calnewport.com/books/digital-minimalism/) by Professor Cal Newport — While not business-centric this book contains some great advice to protect your attention, such as switching off notifications and observing a digital Sabbath.
 * Any 37signals/Basecamp book, i.e. [It Doesn't Have To Be Crazy At Work](https://basecamp.com/books/calm), [Rework](https://basecamp.com/books/rework), [Remote](https://basecamp.com/books/remote) and [Getting Real](https://basecamp.com/books/getting-real) by Jason Fried and David Heinemeier Hansson — Each book is quick to read, packed with really practical and sensible advice that frequently had me saying out loud, "YES!"
@@ -45,3 +45,7 @@ These are a few of my favourite resources from the last few years that continue 
 Of course, culture is an evolving thing. But we have an open invitation from the top to "promote an open, empowered, collaborative and energised working culture that embraces change, nurtures innovation and makes us a truly amazing and rewarding company to work for." 
 
 Let's be courageous.
+
+---
+
+Photo by [mnm.all](https://unsplash.com/photos/PkXrm-KGD_4) on [Unsplash](https://unsplash.com/)
