@@ -1,5 +1,8 @@
 # Agile is about culture not processes
 
+Friday 8 February 2019
+v0.1.0
+
 At the Cegedim UK conference in Dundee on Wednesday 23 January 2019, Steve Bradley introduced us to the company goals around which the agenda was organised. The third goal was about people and culture:
 
 > To develop our talents and to promote an open, empowered, collaborative and energised working culture that embraces change, nurtures innovation and makes us a truly amazing and rewarding company to work for.
