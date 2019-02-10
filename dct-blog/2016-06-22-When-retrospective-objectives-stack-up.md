@@ -1,6 +1,6 @@
 # When retrospective objectives stack up
 
-WEDNESDAY 22 JUNE 2016
+Wednesday 22 June 2016
 
 In [my last post](http://digitalcommunications.wp.st-andrews.ac.uk/2015/03/11/continually-improving-our-work-habits-with-retrospectives/) on retrospectives I said that at the end of each retrospective the team should settle on an action that they believe will help improve the next sprint: the retrospective objective.
 

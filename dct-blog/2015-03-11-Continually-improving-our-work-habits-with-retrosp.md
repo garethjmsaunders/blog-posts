@@ -1,8 +1,10 @@
 # Continually improving our work habits with retrospectives
 
-WEDNESDAY 11 MARCH 2015
+Wednesday 11 March 2015
 
-At the end of sprint #14 we identified three actions that would improve our processes going into sprint #15.
+![Retrospective objectives board](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-03-11-retrospective-objectives.jpg)
+
+_At the end of sprint #14 we identified three actions that would improve our processes going into sprint #15.__
 
 One of the principles behind the [Agile](http://en.wikipedia.org/wiki/Agile_software_development) development method we use is that “at regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.” (Source: [Principles behind the Agile manifesto](http://agilemanifesto.org/principles.html))
 
@@ -51,7 +53,9 @@ For the next 20 minutes — though it’s usually shorter — armed with a stack
 
 ### Step 3: Mute mapping
 
-Ideas have now been grouped, circled and a category label given to each.
+![Ideas have been grouped and categorised](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-03-11-mute-mapping.jpg)
+
+_Ideas have now been grouped, circled and a category label given to each._
 
 Having filled the whiteboard with a colourful patchwork of ideas, the first thing I do is read out each idea. We now hear what everyone has written. Sometimes this prompts new ideas; these get added to the board.
 
@@ -95,7 +99,9 @@ The retrospective objective for the next sprint was simply this: use a timer f
 
 We ran timers every day for the following two sprints and now we don’t need one: daily stand-up meetings are now as short as they should be, and any extra chat is left to the end and optional.
 
-Sprint timer results proving that our daily stand-up meetings are now shorter.
+![Screenshot of sprint timer showing bar chart](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-03-11-sprint-timer-180x300.gif)
+
+_Sprint timer results proving that our daily stand-up meetings are now shorter._
 
 #### Ad hoc requests
 
