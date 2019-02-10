@@ -1,6 +1,6 @@
 # Agile release planning with multiple projects
 
-WEDNESDAY 25 NOVEMBER 2015
+Wednesday 25 November 2015
 
 One of the biggest challenges we faced when we started down the Agile path was how to accommodate working on multiple projects concurrently. This is a little insight into how we are currently managing ourselves across two projects plus business as usual tasks.
 
@@ -22,7 +22,9 @@ User stories and requirements for each project stream were prioritised, scored 
 
 They managed this in a spreadsheet document as a long-term release plan:
 
-Long-term release plan from BBC Interactive, 2002
+![BBC release plan](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-11-25-bbc-release-plan.gif)
+
+_Long-term release plan from BBC Interactive, 2002_
 
 As Scotland concludes in his paper:
 
@@ -38,7 +40,9 @@ We create a [Trello](http://trello.com/) board for each project and consultanc
 
 And we also have a long-term release plan in a spreadsheet, which has been such a simple but effective planning tool. This is what ours looks like:
 
-Our current release plan
+![Release plan spreadsheet](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-11-25-dct-release-plan-updated.gif)
+
+_Our current release plan_
 
 ## Naming sprints
 
@@ -52,7 +56,9 @@ For example, we are currently in sprint #9 of project DC1001 (External website r
 
 So, now we refer to the sprints by a common name across all projects and business as usual. Because it was Steve Evans and I that were doing the planning at the time, and we are both big cycling fans, our next 26 sprints are named alphabetically after famous cyclists, male and female. The last sprint was (Mark) Cavendish, the current is (Alex) Dowsett.
 
-Project DC1001 : sprints #6, #7 and #8 were Armstrong, Boardman and Cavendish
+![Trello board showing sprint names](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-11-25-trello-sprint-names.gif)
+
+_Project DC1001 : sprints #6, #7 and #8 were Armstrong, Boardman and Cavendish_
 
 I can’t emphasise just how helpful is has been to have the same sprint names and images across all the project boards. Don’t make me think, indeed.
 
@@ -65,3 +71,7 @@ I’ve found the long-term release plan plus consistently-named sprints to b
 #### More reading
 
 Another really useful study is David Marquis’s blog post: [Small team, multiple projects: an Agile approach to planning](http://davidmarquis.wordpress.com/2011/12/03/small-team-multiple-projects-agile-planning/).
+
+---
+
+Published to https://digitalcommunications.wp.st-andrews.ac.uk/2015/11/25/agile-release-planning-with-multiple-projects/
