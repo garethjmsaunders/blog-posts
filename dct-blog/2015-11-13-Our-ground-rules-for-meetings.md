@@ -50,3 +50,7 @@ The digital communications team have come up with the following ground rules reg
 We have found these rules to be really liberating. Our meetings have been cheaper, more efficient, more focused, and much more productive as a result. Give it a go, and see if it works for your department or team.
 
 What tips do you have for running meetings?
+
+---
+
+Published to https://digitalcommunications.wp.st-andrews.ac.uk/2015/11/13/our-ground-rules-for-meetings/
