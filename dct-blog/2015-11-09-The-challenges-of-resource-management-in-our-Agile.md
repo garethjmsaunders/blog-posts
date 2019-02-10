@@ -80,3 +80,7 @@ During the last planning session on Friday afternoon we each kept a tally of ta
 This week I’m going to redesign our universe of work document, based on our experiences and feedback from Friday, to allow it to provide this information. I’m also toying with the idea of categorising it into content work and development work to see if that will help, given that that is the reality within our team. I will report back with our findings.
 
 Going into this, though, I am reassured by the words of the trainer I had on a recent P3O (portfolio, programme and project office) course: resource management is really hard!
+
+---
+
+Published to https://digitalcommunications.wp.st-andrews.ac.uk/2015/11/09/the-challenges-of-resource-management-in-our-agile-team/
