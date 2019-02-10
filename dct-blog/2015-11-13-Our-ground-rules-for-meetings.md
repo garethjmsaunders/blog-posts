@@ -1,6 +1,8 @@
 # Our ground rules for meetings
 
-FRIDAY 13 NOVEMBER 2015
+Friday 13 November 2015
+
+![Stock image of a meeting](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-11-13-meetings.jpg)
 
 [Atlassian](http://www.atlassian.com/time-wasting-at-work-infographic) reports that the average employee attends 62 meetings per month
 
