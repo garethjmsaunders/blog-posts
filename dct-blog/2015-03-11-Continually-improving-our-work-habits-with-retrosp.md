@@ -122,3 +122,7 @@ Collectively unpacked what was behind those ad hoc requests, I felt, gave us a
 In identifying that all it required was a conversation, it gave us an opportunity to build bridges and educate rather than defensively close doors.
 
 At the end of this week we’ll sit down for another retrospective. I don’t know yet what we’ll discover, but I do know that it will be valuable and another step towards us becoming a better team.
+
+---
+
+Published to https://digitalcommunications.wp.st-andrews.ac.uk/2015/03/11/continually-improving-our-work-habits-with-retrospectives/
