@@ -4,7 +4,7 @@ Friday 13 November 2015
 
 ![Stock image of a meeting](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-11-13-meetings.jpg)
 
-[Atlassian](http://www.atlassian.com/time-wasting-at-work-infographic) reports that the average employee attends 62 meetings per month
+_[Atlassian](http://www.atlassian.com/time-wasting-at-work-infographic) reports that the average employee attends 62 meetings per month_
 
 Hands up if you love meetings. Anyone? No?
 
