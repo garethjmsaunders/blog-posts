@@ -17,9 +17,9 @@ In a recent conversation with one team member mid-sprint they told me that they 
 
 As did this tiny piece of empirical evidence: we had a list of 22 outstanding retrospective objectives going back three months.
 
-![List of retrospective objectives](/img/2016-06-22-retrospective-objectives.png)
+![Printed list of objectives](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2016-06-22-retrospective-objectives.png)
 
-(Twenty) too many retrospective objectives
+_(Twenty) too many retrospective objectives_
 
 Twenty-two. Over three months.
 
