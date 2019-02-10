@@ -1,6 +1,6 @@
 # The challenges of resource management in our Agile team
 
-MONDAY 9 NOVEMBER 2015
+Monday 9 November 2015
 
 Over the last year, as we’ve been formally trying to work in a more [agile](http://en.wikipedia.org/wiki/Agile_software_development) way, one of the biggest challenges I’ve faced as a project manager is resource management. In other words,
 
@@ -43,7 +43,9 @@ That leaves relatively little time, around 40% of their working week, to dedicat
 
 One tool that our friendly, neighbourhood business analyst introduced us to is the Universe of work. It’s a bit like a time budget sheet.
 
-Universe of work—just opposite World of Carpets
+![Screenshot of universe of work document](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-11-09-universe-of-work.gif)
+
+_Universe of Work—just opposite World of Carpets_
 
 On our universe of work spreadsheet I’ve grouped all tasks and activities under the following categories:
 
