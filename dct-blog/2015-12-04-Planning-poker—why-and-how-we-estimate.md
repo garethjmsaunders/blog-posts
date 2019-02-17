@@ -2,7 +2,10 @@
 
 FRIDAY 4 DECEMBER 2015
 
-All the tools you need to become an Agile planning ninja
+
+![Planning poker cards](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-12-04-planning-poker.jpg)
+
+_All the tools you need to become an Agile planning ninja_
 
 When creating a plan—whether it be a big project release plan or a smaller two-weeks’ timebox plan—you essentially need to know three things:
 
@@ -64,3 +67,7 @@ It also allows us to chart the velocity of the team from sprint to sprint, which
 ## More reading
 
 Luis Goncalves, co-author of the excellent book [Getting value out of Agile Retrospectives](http://luis-goncalves.com/books/) has written a really useful article about planning poker:
+
+---
+
+Published to https://digitalcommunications.wp.st-andrews.ac.uk/2015/12/04/planning-poker-why-and-how-we-estimate/
