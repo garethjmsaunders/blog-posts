@@ -2,7 +2,7 @@
 
 Thursday 17 March 2016
 
-![Spreadsheet](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2016-03-17-dsdm-products.jpg)
+![Spreadsheet](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2016-03-17-dsdm-products.gif)
 
 _IMAGE: Matrix of product phases and products, indicating who is responsible for what._
 
