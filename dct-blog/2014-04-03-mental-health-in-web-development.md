@@ -27,7 +27,7 @@ Over the next half an hour Christopher shared with us something of what had brou
 
 Filled with remorse, Christopher resolved to do something about it. He began looking into what had led him to this point, he began to explore and understand the mechanics of the mind. Later he also decided to share some of what he had learned with the tech and web communities he was a part of; which is what brought him to be standing before us, laying himself bare and sharing something immensely personal with us.
 
-(You can read Christopher Murphy’s very moving article on 24 ways: Managing a mind.)
+(You can read Christopher Murphy’s very moving article on [24 ways: Managing a mind](https://24ways.org/2013/managing-a-mind/).)
 
 
 ## Pace of change
