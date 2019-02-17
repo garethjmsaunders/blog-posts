@@ -1,6 +1,6 @@
 # Planning poker—why and how we estimate
 
-FRIDAY 4 DECEMBER 2015
+Friday 4 December 2015
 
 
 ![Planning poker cards](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2015-12-04-planning-poker.jpg)

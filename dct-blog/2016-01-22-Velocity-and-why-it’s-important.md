@@ -1,12 +1,13 @@
 # Velocity and why it’s important
 
-FRIDAY 22 JANUARY 2016
+Friday 22 January 2016
 
-We’d like to develop websites that fast, please
+![Fast car](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2016-01-22-velocity.jpg)
+_We’d like to develop websites that fast, please_
 
 Velocity is an important tool in Agile. Let me explain a little about what it is and why we find it useful.
 
-## Speed = distance over time
+## Speed equals distance over time
 
 One of the challenges when planning each two weeks’ sprint is working out how much work we can realistically commit to. That’s where [estimates](http://digitalcommunications.wp.st-andrews.ac.uk/2015/12/04/planning-poker-why-and-how-we-estimate/) and velocity work together.
 
@@ -53,3 +54,7 @@ Shore and Warden offer the following tips to improve your velocity:
 * Provide needed resources—if your developers are complaining that their PCs are slow then improve them: remove as much as you can that is slowing them down.
 
 Are you using Agile? What lessons have you learned about your velocity?
+
+---
+
+Published to https://digitalcommunications.wp.st-andrews.ac.uk/2016/01/22/velocity-and-why-its-important/

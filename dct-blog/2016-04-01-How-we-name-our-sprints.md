@@ -1,6 +1,6 @@
 # How we name our sprints
 
-FRIDAY 1 APRIL 2016
+Friday 1 April 2016
 
 Ask a couple of programmers how many spaces you should indent your code and you may be in for a long and heated conversation. (The correctly answer is four, obviously!)
 
@@ -34,7 +34,9 @@ Often a lot of thought would go into choosing the right sprint name. It was of
 
 Noggin the Nog is simply classic British childrens’ television. Only Fools and Horses referred to something a consultant had said to us. Parallel 9 was when we started running two concurrent projects. And the Voyages of Doctor Doolittle was our former colleague Duncan Stephen’s last sprint with us (his  Twitter name for years had been @doctorvee, and he was leaving us… hence the voyages of another doctor.
 
-Sprints Superted to Voyages of Doctor Doolittle
+![Trello board](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2016-04-01-sprints-superted-to-vee.jpg)
+
+_Sprints Superted to Voyages of Doctor Doolittle_
 
 ### Scottish summer
 
@@ -42,13 +44,18 @@ During last summer we simply named the sprints after which week of the summer 
 
 That was a useful way to keep track of where we were in relation to the new academic year as it crept slowly closer.
 
-If the Windows XP ‘bliss’ wallpaper (far right) had been made in Scotland it would likely have looked like the image on the far left, and be called ‘typical!’
+
+![Trello board](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2016-04-01-sprints-summer-wallpapers.jpg)
+
+_If the Windows XP ‘bliss’ wallpaper (far right) had been made in Scotland it would likely have looked like the image on the far left, and be called ‘typical!’_
 
 ### Cyclists
 
 As we approached the new academic year we looked for a new theme. As Steveand I are fans of cycling that seemed like an obvious choice.
 
-It’s a sprint finish every week with these champion cyclists
+![Trello board](https://github.com/garethjmsaunders/blog-posts/blob/master/dct-blog/img/2016-04-01-sprints-cyclists.jpg)
+
+_It’s a sprint finish every week with these champion cyclists_
 
 Again, we’ve adopted an alphabetical approach: Armstrong, Boardman, Cavandish, Dowsett, Evans, Froome, G (Geraint Thomas’s nickname… yeah, we kinda cheated there!), Hoy, Indurain, and Julich. Which brings us to our current sprint named after Russian cyclist Vladimir Karpets.
 
@@ -67,3 +74,7 @@ Naming the sprints has given them something of a character — a mascot, if you
 For us, naming sprints has been fun and in places educational, whether it’s sharing YouTube clips of our favourite childhood programmes or getting passionate about Chris Froome’s two Tour de France wins, or seeing the team gasp as they watch Geraint Thomas get bumped off the road by Warren Barguil and ride straight into a telegraph pole on stage 16 of the 2015 Tour.
 
 Come October, though, we’re going to have to find a new theme. I think we should let the girls choose next time.1
+
+---
+
+Published to https://digitalcommunications.wp.st-andrews.ac.uk/2016/04/01/how-we-name-our-sprints/
