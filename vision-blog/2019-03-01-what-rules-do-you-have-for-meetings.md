@@ -66,12 +66,19 @@ In meetings you have permission to leave if you have nothing further to add (thi
 Meetings may end as soon as the objective(s) have been reached. The meeting does not need to fill the time available.
 
 
+## Don't interrupt deep work
+
+It is also worth considering when meetings are held. Knowledge workers need time to get into a state of flow, what computer scientist Professor Cal Newport calls 'deep work'. This is when they are most productive and can remain in that state, if uninterrupted, for a few hours.
+
+It makes sense, then, to schedule meetings at times when it won't interrupt a developer's most productive time of the day (you'll need to figure out from your own team when that might be). For example, if you have a stand-up meeting from 10:15 to 10:30 and schedule a meeting at 11:00 there isn't enough time for any of the developers to get stuck into anything complex during the intervening half-an-hour.
+
+
 ## Better engagement
 
-These rules improved engagement in meetings. The right people were in the room, they had clarity about why they were meeting, they had supporting documentation up front, and were empowered to make decisions during the meeting about when to leave.
+In my last team, these rules improved engagement and energy in meetings. The right people were in the room, they had clarity about why they were meeting, they had supporting documentation up front, and were empowered to make decisions during the meeting about when to leave.
 
 Feel free to use or adjust these meeting rules in your own teams.
 
 ---
 
-Originally posted on Vision blog
+Originally posted on Vision's internal blog
