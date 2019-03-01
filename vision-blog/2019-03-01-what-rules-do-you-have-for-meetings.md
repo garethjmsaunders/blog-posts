@@ -30,25 +30,39 @@ Then there are the other gatherings and workshops that pop up throughout the spr
 
 I have found that setting ground rules for meetings can be very helpful. These are based on the rules we created in my last team for use in all meetings outside the standard agile events.
 
-1. Agenda
+
+### 1. Agenda
+
 All meetings must have an agenda with clear objectives. The agenda (and any supporting documentation) must be included in the calendar in Outlook so everyone has access to it. If there is no agenda then the meeting should be cancelled. Start meetings on time.
 
-2. Attendees
+
+### 2. Attendees
+
 Invite as few people as possible to meetings. The people invited should have a direct relationship to the meeting objectives. If there are people you only need for part of the meeting, where possible, try to arrange the agenda to address their items first.
 
-3. Duration
+
+### 3. Duration
+
 Meetings should be 30 minutes' long. You must justify through the agenda to extend the meeting to 45 minutes or 60 minutes; anything longer should probably be regarded as a workshop. Timebox all meetings. Set a timer. When the timer goes off, the meeting ends.
 
-4. Location
+
+### 4. Location
+
 The location must be appropriate for the kind of meeting being held. It must have enough seats and contain the right equipment (e.g. data projector, screen, whiteboard, etc.). If you can, get there early and set up any equipment before the meeting begins.
 
-5. Tasks
+
+### 5. Tasks
+
 All meetings should produce actionable tasks (or those tasks must have been done during the meeting). These actions must be SMART (specific, measurable, achievable, relevant and time-bound) and someone must be responsible for each action. Make a decision about who needs to be informed about these tasks being completed, when and how.
 
-6. Permission to leave
+
+### 6. Permission to leave
+
 In meetings you have permission to leave if you have nothing further to add (this also goes for post-stand-up discussions). Check with the other attendees before leaving, "Do you think you'll need me for the rest of the meeting?" If they do need you later, they can always call you back in.
 
-7. End
+
+### 7. End
+
 Meetings may end as soon as the objective(s) have been reached. The meeting does not need to fill the time available.
 
 
