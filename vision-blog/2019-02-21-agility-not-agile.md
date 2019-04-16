@@ -8,7 +8,7 @@ In the article he laments that too many people focus on 'Agile' with a capital '
 
 Agile isn't a noun (a naming word, my primary school teacher would drill into us), agile is an adjective (a describing word). Thomas urges us to think about agility not Agile.
 
-"The word “agile” has been subverted to the point where it is effectively meaningless, and what passes for an agile community seems to be largely an arena for consultants and vendors to hawk services and products." — [Dave Thomas]() https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html)
+"The word “agile” has been subverted to the point where it is effectively meaningless, and what passes for an agile community seems to be largely an arena for consultants and vendors to hawk services and products." — [Dave Thomas](https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html)
 
 
 ## Agile principles
