@@ -32,6 +32,12 @@ This is one of the most helpful diagrams I've found that demonstrates the relati
 
 ![Diagram showing agile method coverage](img/2019-05-02-agile-method-coverage.png)
 
-Image credit: _Agile Project Management in Easy Steps_ by John Carroll (2012)
+Diagram credit: _Agile Project Management in Easy Steps_ by John Carroll (2012)
 
 Over the next few weeks, I expect my blog posts to focus on aspects of both Scrum and XP in particular, exploring in more depth some of the tools we have access to in our agile toolbox.
+
+---
+
+Originally published on my work internal blog.
+
+Header photo by Photo by Fancycrave [Unsplash](https://unsplash.com/photos/mQgVyUC0V-I).
