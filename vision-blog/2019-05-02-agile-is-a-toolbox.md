@@ -40,4 +40,4 @@ Over the next few weeks, I expect my blog posts to focus on aspects of both Scru
 
 Originally published on my work internal blog.
 
-Header photo by Photo by Fancycrave [Unsplash](https://unsplash.com/photos/mQgVyUC0V-I).
+Header photo by Fancycrave [Unsplash](https://unsplash.com/photos/mQgVyUC0V-I).
