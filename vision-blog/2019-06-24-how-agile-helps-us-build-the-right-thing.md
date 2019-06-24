@@ -64,3 +64,7 @@ So, the next project I worked on incorporated these three elements: focused on b
 It was one of the most enjoyable projects I've worked on. There was a buzz in the team as we gradually rolled out functionality that corresponded with what the business needed. A couple of times, we changed direction in response to changing priorities. And every two to three days, the business representative—the business visionary or product owner, if you like—dropped by to check in with us, answer questions, share insights, update us on any changes. It was empowering and exciting.
 
 I wonder what we can do to better support these three elements: focus on business need, collaborate, and build incrementally and iteratively? I wonder what we can do to be clearer about our vision, how to make these more transparent and how we can collaboratively work towards these goals. I wonder how we can work together better to identify what processes we need to change or drop completely to remove the blockages that hold us back from delivering our software to users. I wonder how we can get more customer and end-user feedback quicker?
+
+---
+
+Header photo by Oliver Hale on [Unsplash](https://unsplash.com/photos/2cYueJxEDz8)
