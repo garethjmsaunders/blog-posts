@@ -12,15 +12,10 @@ Above all, the primary job of an agile development team is to build quality into
 
 That focus on quality is important because it informs us and shapes us in everything we do as a team, from planning through to delivery.
 
-When I introduced agile to one team I worked with it took me a long time to help them get beyond their misconception that agile meant 'quickly hack things together and shove it out the door'. Release early and release often—yes; dirty hacks—no! Done well, agile should be more disciplined than other traditional methodologies and focus on quality.
+When I introduced agile to one team with whom I worked, it took me a long time to help them get beyond their misconception that agile meant 'quickly hack things together and shove it out the door'. Release early and release often—yes; dirty hacks—no! Done well, agile should be more disciplined than other traditional methodologies and focus on quality.
 
+The first principle of the agile manifesto reads, "our highest priority is to satisfy the customer through early and continuous delivery of valuable software." The agile manifesto values "working software over comprehensive documentation". Valuable software is working; working software relies on quality.
 
-
-
-
-The agile manifesto values "working software over comprehensive documentation". Working software relies on quality
-
-The first principle of the agile manifesto reads, "our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
 
 
 
