@@ -2,26 +2,29 @@
 
 Thursday 29 August 2019
 
-I've been thinking a lot recently about the importance of creating smaller user stories in agile projects. The conclusion that I'm coming to is that teams should try to work with smaller, similarly-sized pieces of work.
+I've been thinking a lot recently about the size of user stories in agile projects. The conclusion that I have been coming to is: what if teams only worked with small, similarly-sized pieces of work?
+
+In theory, small user stories should be more predictable, will include less risk, less uncertainty and less complexity. And therefore should take less time to complete than larger user stories. Or as Mike Cohn put it in _Agile Estimating and Planning_ (Prentice Hall, 2006), "small stories keep work flowing".
 
 
-## Battleship
+## Cycle time
 
-Let me give you an example, an experiment I ran with the Tasks team.
+Cohn references a Poppendieck and Poppendieck study from 2003 about the importance of cycle time in development teams. Cycle time measures how long something takes to go from the start of a process to the end. In software development that means the length of time it takes for a feature to go from a team starting work on a feature to the end user being able to use it.
 
-A few months ago, I invited the Tasks team into a meeting room for a game of Battleship, that classic strategy-type guessing game for two players where each person tries to locate and sink their opponent's fleet, played on a 10×10 grid.
-
-I wanted to demonstrate to the team why working on smaller user stories made you more agile—more responsive, they could learn from their mistakes more quickly.
-
-Each team was given a velocity of 21 story points, represented by 21 guesses. Team A's backlog was split into 21 one-point user stories (guesses); team B, however, had two larger user stories, a 13-point story and an 8-point story point.
-
-Team A went first. They would make a guess ("E5?") and get feedback immediately ("HIT!"). Then they made another guess ("F5?"... another hit) and so on, until all their 21 guesses had been used up.
-
-At the end of team A's go, they had sunk four out of five ships. Imagine each of these ships is a new feature, I told the team. By the end of this 21-point sprint, the team had managed to deliver four complete features. Small stories enabled the team to iteratively deliver value. The risk was low and the short feedback loops allowed the team to adjust their approach quickly and learn from their attempts.
+> A key influence on cycle time is the variability in the time it takes to develop a new feature. One of the best ways to reduce variability is to work with reasonably small and similar size units of work.
+(_Agile Estimating and Planning_ (Prentice Hall, 2006) by Mike Cohn, p.252)
 
 
 
 
+
+
+
+
+
+
+
+--
 
 Jeffries, himself, invented story points as part of a proposal to move away from estimating in ideal days. When asked whether he regrets inventing story points he offers four responses:
 
@@ -48,12 +51,7 @@ It's similar, I suppose, to Uncle Bob's [single responsibility principle](https:
 
 
 
-Small user stories 
 
-* more predictable
-* less risk/uncertainty
-* less complexity
-* take less time
 
 
 
@@ -77,10 +75,21 @@ Two blog posts, "[Story points revisited](https://ronjeffries.com/articles/019-0
 
 
 
-Small stories keep work flowing
-From queuing theory (Poppendieck and Poppendieck 2003; Reinertsen 1997), we learn the importance of focusing on _cycle time_, the amount of time something takes to go from the start of a process to the end of that process. On a software project, cycle time is the time from when the team begins work on a feature until that feature delivers value to users. The shorter the cycle time, the better.
 
-A key influence on cycle time is the variability in the time it takes to develop a new feature. One of the best ways to reduce variability is to work with reasonably small and similar size units of work. The estimating and planning process outlined in this book supports this by advising that teams estimate their short-term work within approximately one order of magnitude. Larger user stories can exist further down a project's prioritized requirements list. However, as those features near the top of the list (when they will be scheduled into an iteration that is beginning), they are disaggregated into smaller pieces.
 
-_Agile Estimating and Planning_ (Prentice Hall, 2006) by Mike Cohn, p.252
 
+
+
+## Battleship
+
+Let me give you an example, an experiment I ran with the Tasks team.
+
+A few months ago, I invited the Tasks team into a meeting room for a game of Battleship, that classic strategy-type guessing game for two players where each person tries to locate and sink their opponent's fleet, played on a 10×10 grid.
+
+I wanted to demonstrate to the team why working on smaller user stories made you more agile—more responsive, they could learn from their mistakes more quickly.
+
+Each team was given a velocity of 21 story points, represented by 21 guesses. Team A's backlog was split into 21 one-point user stories (guesses); team B, however, had two larger user stories, a 13-point story and an 8-point story point.
+
+Team A went first. They would make a guess ("E5?") and get feedback immediately ("HIT!"). Then they made another guess ("F5?"... another hit) and so on, until all their 21 guesses had been used up.
+
+At the end of team A's go, they had sunk four out of five ships. Imagine each of these ships is a new feature, I told the team. By the end of this 21-point sprint, the team had managed to deliver four complete features. Small stories enabled the team to iteratively deliver value. The risk was low and the short feedback loops allowed the team to adjust their approach quickly and learn from their attempts.
