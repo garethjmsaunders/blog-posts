@@ -32,7 +32,7 @@ A lot of, arguably wasted, energy goes into discussions around estimation. The u
 
 Jeffries again, "To me, the important thing in Real Agile [his emphasis] is to pick the next few things to do, and do them promptly. The key question is to find the most valuable things to do, and to do them quickly. Doing them quickly comes down to doing small slices of high value, and iterating rapidly. Story cost estimation doesn't help much with that, if at all."
 
-Identify small slices of high value and do them quickly. Large stories packed with multiple acceptance criteria use-cases cannot be done quickly. At best these are likely to be big slices of varying value – items of low value nestled alongside items of high value. Rather than arguing whether a user story is worth five points or eight, Jeffries would rather energy and focus were given to breaking down stories into "small slices of high value". That will also naturally identify any elements of low value that can be scheduled later or simply dropped.
+Identify small slices of high value and do them quickly. Large stories packed with multiple acceptance criteria use-cases cannot be done quickly. At best these are likely to be big slices of varying value – items of low value nestled alongside items of high value. Rather than arguing whether a user story is worth five points or eight, Jeffries would rather energy and focus were given to breaking down stories into "small slices of high value". That will also naturally identify any elements of low value that can be scheduled later or simply dropped—'could' or 'won't' in MoSCoW prioritisation parlance.
 
 When you create small user stories, each one offering high value and deliverable within a day, the question of size eventually becomes redundant. Teams can simply measure their velocity by the number of stories completed. I like that idea.
 
@@ -68,7 +68,7 @@ I've been involved in many sprints in the past where that was the case—we had 
 
 When considering how to break down stories I've recently been thinking about the [single responsibility principle](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) from SOLID, the first five object-oriented design (OOD) principles by Robert C. Martin (aka Uncle Bob).
 
-In programming, the single responsibility principle states that every class or module or should have responsibility over a single part of the software's functionality: each should have one and only one reason to change. In other words, do one thing and do it well.
+In programming, the single responsibility principle states that every class or module should have responsibility over a single part of the software's functionality: each should have one and only one reason to change. In other words, do one thing and do it well.
 
 I wonder if we ought to be doing something similar with user stories: smaller stories, each with a single responsibility. Do one thing and do it well, each user story representing a single, small, testable feature. A small slice of high value.
 
