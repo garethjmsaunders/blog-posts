@@ -16,7 +16,7 @@ For this style of retrospective you'll need:
 
 Before the retrospective, draw a circle on the whiteboard or flipchart paper and then split it into five equal parts. Label these: Start, More, Keep, Less, Stop.
 
-IMG
+![Diagram showing circle separated into five equal parts labelled start, more, keep, less and stop](img/2019-10-10-starfish.gif)
 
 ## Running the retrospective
 
