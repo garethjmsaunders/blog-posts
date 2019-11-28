@@ -6,17 +6,17 @@ The sailboat retrospective is a model that I especially like to use at the end o
 
 I like to use this model for post release retrospectives because it helps the team to focus on lessons learned around unexpected risks, the things that slowed the team down and celebrate the things had really helped us.
 
-Luis Gonçalves in _Getting Value out of Agile Retrospectives_ by Luis Gonzales (InfoQ, 2015) reports that he has used this model successfully with two interdependent teams who needed to solve ongoing issues.
+Luis Gonçalves in _Getting Value out of Agile Retrospectives_ by Luis Gonçalves and Ben Linders (InfoQ, 2015) reports that he has used this model successfully with two interdependent teams who needed to solve ongoing issues.
 
 This might also be a useful model for a session at the start of a project to help anticipate potential hazards and helpers.
 
-## Set up
+## Setup
 
 On a large piece of paper or a whiteboard draw an island with a sailing ship heading towards it. The ship must have an anchor dragging along the sea bed. Above and behind the ship draw a cloud (or clouds) whose winds are propelling it forward. Then between the ship and the island draw either rocks or a naval mine.
 
 That's all; you don't have to be a great artist to do this; copy images from a Google image search if you need to. If you do have a bit of an artistic flair, be creative — customise the image for your team, make it personal.
 
-IMG
+![whiteboard showing a ship heading towards an island](img/2019-11-28-sailboat-retrospective.jpg)
 
 The ship represents your team; the anchor represents whatever has slowed down your team, the hindrances.
 
