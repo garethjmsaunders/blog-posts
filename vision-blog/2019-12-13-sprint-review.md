@@ -5,6 +5,8 @@ Wednesday 18 December 2019
 
 In Scrum, towards the end of each sprint, two important events are held that help teams to inspect how they are doing and make adjustments as required: the sprint review and the sprint retrospective. 
 
+This is in keeping with ... Scrum guide: "Three pillars uphold every implementation of empirical process control: transparency, inspection, and adaptation."
+
 The events are usually held in that order: review then retrospective. One often feeds the other. The sprint review looks at the current state of the product being developed and how that affects the overall product backlog; the sprint retrospective then focuses on the processes created to most efficiently deliver the plan to build the next iteration.
 
 
