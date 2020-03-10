@@ -146,7 +146,7 @@ Any actions that come out of the sprint review should be documented and SMART (s
 
 ### 5. Close the meeting
 
-With the sprint review complete, the team now has an opportunity to ask the customer to accept this potentially-shippable increment for deployment and then close the sprint review meeting.
+With the sprint review complete, the team now has an opportunity to ask the customer to accept this potentially-shippable increment for deployment and then close the sprint review meeting which brings to a formal end the sprint.
 
 
 ---
