@@ -6,7 +6,7 @@ Thursday 3 April 2014
 
 _HTML code with mental health class names_
 
-Back in November (21–22) 2013 I travelled to Dublin to TerminalFour's annual global user conference T44I at the Aviva Stadium in Dublin, Ireland. TerminalFour develop the web content management system that we use here at St Andrews: Site Manager, often simply referred to as T4.
+Back in November (21–22) 2013 I travelled to Dublin to TerminalFour's annual global user conference T44U at the Aviva Stadium in Dublin, Ireland. TerminalFour develop the web content management system that we use here at St Andrews: Site Manager, often simply referred to as T4.
 
 This was the third or fourth event that I’d attended and was by far the most enjoyable for me, not least because we were located in a rugby stadium rather than a brewery. The last few conferences had been hosted at the Guinness storehouse… and I don’t drink alcohol (largely thanks to an inherited kidney disease). I was, however, brought up in the Scottish Borders where we do play rugby. A lot.
 
