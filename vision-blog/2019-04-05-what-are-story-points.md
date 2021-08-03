@@ -17,7 +17,7 @@ Agile tries to get around this by estimating effort using story points rather th
 
 Imagine you are interested in hill walking. You and a friend decide that you want to use story points to classify different hills and mountains according to the effort required to climb them.
 
-But it's not just about the physical effort required to walk to the top. You also want to take into account the complexity of the ascent (how easy is it to reach the starting point, any difficult terrain, will you need any specialist equipment, etc.) and any risks and uncertainty involved (changing weather, wind conditions, or sheer drops, for example).
+But it's not just about the physical **effort** required to walk to the top. You also want to take into account the **complexity** of the ascent (how easy is it to reach the starting point, any difficult terrain, will you need any specialist equipment, etc.) and any **risks and uncertainty** involved (changing weather, wind conditions, or sheer drops, for example).
 
 The first hill you decide to climb the Eildon hills (1,385 ft) near Melrose in the Scottish Borders. It's a strenuous but simple walk, you don't need any specialist equipment and you could do it easily in a couple of hours, even on a rainy day. Weighing up the effort involved to climb it, the complexity of the climb and the risk and uncertainty that is presented, you decide to classify that hill as 1 story point.
 
