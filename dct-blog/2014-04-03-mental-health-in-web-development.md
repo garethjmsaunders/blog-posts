@@ -8,14 +8,14 @@ _HTML code with mental health class names_
 
 Back in November (21–22) 2013 I travelled to Dublin to TerminalFour's annual global user conference T44U at the Aviva Stadium in Dublin, Ireland. TerminalFour develop the web content management system that we use here at St Andrews: Site Manager, often simply referred to as T4.
 
-This was the third or fourth event that I’d attended and was by far the most enjoyable for me, not least because we were located in a rugby stadium rather than a brewery. The last few conferences had been hosted at the Guinness storehouse… and I don’t drink alcohol (largely thanks to an inherited kidney disease). I was, however, brought up in the Scottish Borders where we do play rugby. A lot.
+This was the third or fourth event that I’d attended and was by far the most enjoyable for me, not least because we were located in a rugby stadium rather than a brewery; the last few conferences had been hosted at the Guinness storehouse… and I don’t drink alcohol (largely thanks to an inherited kidney disease). I was, however, brought up in the Scottish Borders where we do play rugby. A lot.
 
 It was also, as promised, the most hands-on conference to date. One of the main focuses of the event was about unleashing Site Manager’s potential. You can view the mind maps I created, on Flickr (Thursday and Friday). There were sessions about content strategy; existing, new and future Site Manager features; platform as a service; mobile web and responsive web design; web search; and more than one presentation about novel ways of using Site Manager to edit and manage content, and quickly create new sites.
 
 
 ## Christopher Murphy
 
-The session that touched me the most, however, was the keynote talk by Christopher Murphy (@fehler on Twitter), an academic, writer and designer based in Belfast; he is one half of the Web Standardistas and now a volunteer with Prompt, an organisation with a remit of starting conversations about mental health in the technology industry.
+The session that touched me the most, however, was the keynote talk by Christopher Murphy ([@fehler](https://twitter.com/fehler) on Twitter), an academic, writer and designer based in Belfast; he is one half of the Web Standardistas and now a volunteer with Prompt, an organisation with a remit of starting conversations about mental health in the technology industry.
 
 His talk had me in tears, at one point, to be honest.
 
